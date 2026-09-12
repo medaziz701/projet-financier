@@ -25,31 +25,8 @@ Application desktop complète pour la gestion financière d'entreprise : ventes,
 
 L'application propose une interface intuitive pour gérer tous les aspects financiers de votre entreprise.
 
-## 🚀 Installation
 
-```bash
-# Cloner le repository
-git clone https://github.com/medaziz701/projet-financier.git
-cd projet-financier
 
-# Installer les dépendances
-pip install -r requirements.txt
-
-# Lancer l'application
-python main.py
-```
-
-## 📝 Mode Démonstration
-
-Pour utiliser l'application avec des données fictives (idéal pour les présentations) :
-
-```bash
-# Activer le mode démo
-echo "1" > demo_mode.txt
-python main.py
-```
-
-Voir [README_DEMO.md](README_DEMO.md) pour plus de détails.
 
 ## 👨‍💻 Auteur
 
