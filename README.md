@@ -5,7 +5,6 @@ Application desktop complète pour la gestion financière d'entreprise : ventes,
 ![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)
 ![SQLite](https://img.shields.io/badge/SQLite-Database-lightgrey.svg)
 ![Tkinter](https://img.shields.io/badge/Tkinter-GUI-orange.svg)
-![License](https://img.shields.io/badge/License-MIT-green.svg)
 
 ## ✨ Fonctionnalités
 
@@ -61,4 +60,4 @@ Voir [README_DEMO.md](README_DEMO.md) pour plus de détails.
 
 ## 📄 Licence
 
-Ce projet est sous licence MIT.
+Projet commercial — code source confidentiel

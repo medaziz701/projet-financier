@@ -68,3 +68,15 @@ htmlcov/
 
 # Documentation
 docs/_build/
+
+# Scripts de test et vérification
+check_db*.py
+fix_*.py
+test_*.py
+list_*.py
+simple_check.py
+verify_*.py
+show_*.py
+
+# Fichiers de test
+test_write.txt
