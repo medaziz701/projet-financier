@@ -1,5 +1,6 @@
 # Base de données
 data.db
+demo.db
 *.db
 *.sqlite
 *.sqlite3
@@ -9,12 +10,15 @@ __pycache__/
 *.py[cod]
 *$py.class
 *.so
+.Python
 
 # Environnements virtuels
 venv/
 env/
 ENV/
-.venv
+.venv/
+env.bak/
+venv.bak/
 
 # IDE
 .vscode/
@@ -22,16 +26,21 @@ ENV/
 *.swp
 *.swo
 *~
+.project
+.pydevproject
+.settings/
 
 # Fichiers temporaires
 *.log
 *.tmp
 *.temp
+*.pid
 
 # Fichiers de sauvegarde
 *.bak
 *.backup
 backups/
+pending_state.json
 
 # Fichiers PDF générés
 *.pdf
@@ -39,7 +48,23 @@ backups/
 # Fichiers système
 .DS_Store
 Thumbs.db
+desktop.ini
 
 # Configuration locale
 config.local.json
 secrets.json
+demo_mode.txt
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+.eggs/
+
+# Tests
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Documentation
+docs/_build/
